@@ -4,4 +4,4 @@ Feature: Login to functionalities;
     Given User is on Login page
     When User enterer valid UserName and password
     And Click on login button
-    Then User navigate to the Home page
+    Then User navigate to the Home page.
